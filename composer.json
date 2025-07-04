@@ -2,6 +2,7 @@
     "name": "fog/fog-admin",
     "description": "FogAdmin - Laravel Admin Panel by FogDev",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Fog\\FogAdmin\\": "src/"
