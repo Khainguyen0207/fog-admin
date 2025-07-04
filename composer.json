@@ -1,0 +1,23 @@
+{
+    "name": "fog/fog-admin",
+    "description": "FogAdmin - Laravel Admin Panel by FogDev",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fog\\FogAdmin\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fog\\FogAdmin\\Providers\\AppServiceProvider"
+            ]
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/Fog/FogAdmin"
+        }
+    ]
+}

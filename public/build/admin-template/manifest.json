@@ -1,0 +1,48 @@
+{
+  "resources/views/admin-template/template-basic/assets/js/after/button-action.js": {
+    "file": "assets/button-action-BBpola57.js",
+    "name": "button-action",
+    "src": "resources/views/admin-template/template-basic/assets/js/after/button-action.js",
+    "isDynamicEntry": true
+  },
+  "resources/views/admin-template/template-basic/assets/js/after/mode.js": {
+    "file": "assets/mode-CcC0JHxP.js",
+    "name": "mode",
+    "src": "resources/views/admin-template/template-basic/assets/js/after/mode.js",
+    "isDynamicEntry": true
+  },
+  "resources/views/admin-template/template-basic/assets/js/after/passwordJs.js": {
+    "file": "assets/passwordJs-Bwj2e68P.js",
+    "name": "passwordJs",
+    "src": "resources/views/admin-template/template-basic/assets/js/after/passwordJs.js",
+    "isDynamicEntry": true
+  },
+  "resources/views/admin-template/template-basic/assets/js/after/script.js": {
+    "file": "assets/script-CtZ6-JUN.js",
+    "name": "script",
+    "src": "resources/views/admin-template/template-basic/assets/js/after/script.js",
+    "isDynamicEntry": true
+  },
+  "resources/views/admin-template/template-basic/assets/js/after/table.js": {
+    "file": "assets/table-BRE5mwnR.js",
+    "name": "table",
+    "src": "resources/views/admin-template/template-basic/assets/js/after/table.js",
+    "isDynamicEntry": true
+  },
+  "resources/views/admin-template/template-basic/assets/js/app.js": {
+    "file": "assets/app-ywzsnf3E.js",
+    "name": "app",
+    "src": "resources/views/admin-template/template-basic/assets/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/views/admin-template/template-basic/assets/js/after/script.js",
+      "resources/views/admin-template/template-basic/assets/js/after/button-action.js",
+      "resources/views/admin-template/template-basic/assets/js/after/table.js",
+      "resources/views/admin-template/template-basic/assets/js/after/mode.js",
+      "resources/views/admin-template/template-basic/assets/js/after/passwordJs.js"
+    ],
+    "css": [
+      "assets/app-BxB_7paG.css"
+    ]
+  }
+}

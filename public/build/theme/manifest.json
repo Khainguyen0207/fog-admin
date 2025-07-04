@@ -1,0 +1,8 @@
+{
+  "resources/views/theme/assets/js/app.js": {
+    "file": "assets/app-Bzgz_ADp.js",
+    "name": "app",
+    "src": "resources/views/theme/assets/js/app.js",
+    "isEntry": true
+  }
+}
