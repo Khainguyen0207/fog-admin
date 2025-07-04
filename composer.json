@@ -15,12 +15,6 @@
             ]
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Khainguyen0207/fog-admin"
-        }
-    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
