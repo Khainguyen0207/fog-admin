@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "npm run build:admin && npm run build:theme",
+        "dev:admin": "vite --config resources/views/admin-template/vite.config.js",
+        "dev:theme": "vite --config resources/views/theme/vite.config.js",
+        "dev": "npm run dev:admin && npm run dev:theme",
+        "build:admin": "vite build --config resources/views/admin-template/vite.config.js",
+        "build:theme": "vite build --config resources/views/theme/vite.config.js"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.0.0",
+        "axios": "^1.8.2",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "sass": "^1.86.3",
+        "tailwindcss": "^4.0.0",
+        "vite": "^6.3.2"
+    },
+    "dependencies": {
+        "jquery": "^3.7.1"
+    }
+}
